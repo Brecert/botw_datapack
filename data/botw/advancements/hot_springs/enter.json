@@ -1,0 +1,13 @@
+{
+	"criteria": {
+		"in_water": {
+			"trigger": "minecraft:enter_block",
+			"conditions": {
+				"block": "minecraft:water"
+			}
+		}
+	},
+	"rewards": {
+		"function": "botw:hot_springs/waiting"
+	}
+}
